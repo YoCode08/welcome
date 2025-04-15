@@ -9,7 +9,7 @@ const fs = require('fs')
 
 global.botname = "Killer Queen V6"
 global.version = "6.0.0"
-global.owner = "6285943212106"
+global.owner = "6281313453839"
 global.footer = "Yuukey Sigma"
 global.idch = "120363414187748705@newsletter"
 global.packname = "Mi Ayam"
